@@ -1,7 +1,0 @@
-Numbers: Aquire https://www.fontspace.com/aquire-font-f43735
-
-Page title: Apple Tea https://www.fontspace.com/a-apple-tea-font-f46908
-
-Content: Inter  <link rel="preconnect" href="https://fonts.gstatic.com">
-                <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">   
-

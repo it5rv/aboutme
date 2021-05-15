@@ -11,8 +11,6 @@ a:hover, a:active, a:visited, a:link{
 
 body{
     display: grid;
-    background-color: #000;
-    background-color: #f5f5f5;
 }
 
 .page{
@@ -35,7 +33,7 @@ body{
     
 }
 .card{
-    background-color: rgba(225,225,225,0.7);
+    background-color: rgba(225,225,225,0.4);
     /* background-color: rgba(0,0,0,0.7); */
     padding: 2%;
     border-radius: 16px;
@@ -74,6 +72,7 @@ position: relative; /* for square*/
     position: absolute;
     transform: scale(1.5);
     color: #fff;
+    opacity: 1;
 }
 .fa-sun{
     position: absolute;
@@ -139,7 +138,13 @@ position: relative; /* for square*/
     }
 
     /* ---- Colours ---- */
-
+    
+    .light{
+        background-color: #f5f5f5;
+    }
+    .dark{
+        background-color: #000;
+    }
     h3{
         color: #000;
         background-color: #f5f5f5;
@@ -150,6 +155,7 @@ position: relative; /* for square*/
     span{
         color: #6c757d;
     }
+    
 
 
 
