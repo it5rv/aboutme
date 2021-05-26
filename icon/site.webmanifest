@@ -1,7 +1,7 @@
 {
     "name": "Ravindra Nag",
     "short_name": "RV",
-    "start_url": "/index.html",
+    "start_url": "https://it5rv.github.io/aboutme/",
     "icons":[
         {
             "src": "/aboutme/icon/android-chrome-192x192.png",

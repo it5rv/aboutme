@@ -12,7 +12,7 @@ self.addEventListener('install', e => {
         '/aboutme/index.html',
         '/aboutme/css/style.css',
         '/aboutme/js/script.js',
-        'aboutme/photos/pfp.webp'
+        'photos/pfp.webp'
       ]).then(() => self.skipWaiting());
     })
   );
